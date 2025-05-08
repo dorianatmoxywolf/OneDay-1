@@ -30,3 +30,7 @@ Hunch
 | **Demand validation**: Do we have the finances to reach this audience and test demand?                                       | Yes/No   |
 | **Solution space**: Can this problem be approached and solved in multiple ways?                                              | Yes/No   |
 | **Why us**? Are you as a founder well-placed to solve this problem?                                                          | Yes/No   |
+
+## Hypothesis
+
+Your concluding hypothesis goes here.
